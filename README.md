@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramazan YETIS
 - 👀 I’m interested in Cyber Security, Software development, Blockchain, IoT
-- 🌱 I’m currently learning Python, Flask, PostgreSQL, Docker...
+- 🌱 I’m currently learning Python, Flask, PostgreSQL, Docker, Jenkins, Bash, System Security...
 - 📫 How to reach me linked.in/ryetis
 
 <!---
